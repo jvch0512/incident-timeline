@@ -1,0 +1,4 @@
+{"time":"2026-03-02T03:05:00Z","source":"soc","event":"SOC analyst triages EDR alert","kind":"detect"}
+{"time":"2026-03-02T05:40:00Z","source":"soc","event":"Account jdoe disabled | sessions revoked","kind":"contain"}
+{"time":"2026-03-02T09:10:00Z","source":"it","event":"Passwords rotated, MFA re-enrolled","kind":"resolve"}
+{"time":"2026-03-02T09:10:00Z","source":"it","event":"Passwords rotated, MFA re-enrolled","kind":"resolve"}

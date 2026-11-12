@@ -1,0 +1,4 @@
+# firewall and EDR export (sample, fictional incident)
+{"time":"2026-03-02T02:14:09Z","source":"vpn","event":"Login from unusual country for user jdoe","kind":"start"}
+{"time":"2026-03-02T02:31:40Z","source":"edr","event":"Credential dumping tool blocked on WS-044","kind":"info"}
+{"time":"2026-03-02T05:52:11Z","source":"edr","event":"Host WS-044 isolated","kind":"contain"}
